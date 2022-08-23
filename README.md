@@ -7,7 +7,7 @@
 [CLANG](https://releases.llvm.org/download.html)
 
 ```bash
->> $ lang main.c
+>> $ clang main.c
 ```
 
 
